@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/dev/hot_plat/.pio/libdeps/esp12e/Unity",
+    "C_Cpp.errorSquiggles": "disabled"
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/dev/hot_plat/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/unity.dir/includes_C.rsp -g -std=c11 -Waddress -Waggregate-return -Wformat-nonliteral -Wformat-security -Wformat -Winit-self -Wmissing-declarations -Wmissing-include-dirs -Wno-multichar -Wno-parentheses -Wno-type-limits -Wno-unused-parameter -Wunreachable-code -Wwrite-strings -Wpointer-arith -Werror -Wall -o CMakeFiles\\unity.dir\\src\\unity.c.obj -c C:\\dev\\hot_plat\\.pio\\libdeps\\esp12e\\Unity\\src\\unity.c",
+  "file": "C:/dev/hot_plat/.pio/libdeps/esp12e/Unity/src/unity.c",
+  "output": "CMakeFiles/unity.dir/src/unity.c.obj"
+}
+]
